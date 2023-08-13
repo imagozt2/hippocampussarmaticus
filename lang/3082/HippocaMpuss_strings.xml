@@ -1,0 +1,110 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <HippocaMpuss>Hippocampus saramaticus</HippocaMpuss>
+      <HippocaMpuss_stt>Hippocampus saramaticus</HippocaMpuss_stt>
+      <HippocaMpuss_lower>El Hippocampus saramaticus</HippocaMpuss_lower>
+      <HippocaMpuss_ltt>
+         <color r="255" g="248" b="178">
+            <b>Hippocampus saramaticus</b>
+         </color>
+         <br/>
+Haga clic y seleccione un Hippocampus saramaticus.
+      </HippocaMpuss_ltt>
+</entityname>
+<zoopedia_hippocampuss>
+ <entry>Hippocampus saramaticus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/HippocaMpuss/HippocaMpuss_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Slovenia<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i>(Pesces)</i><br/>Orden: <i>Sygnathiformes</i><br/>Familia: Sygnathidae <i>(Hippocampinae)</i><br/>Genero: <i>Hippocampus</i><br/>Species: <i>H. Saramaticus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos sobre Hippocampus saramaticus</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio en el Mioceno tardio, hace 13 millones de años.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es muy similar a otra especia de caballito de mar prehistorico, H. Slovenicus, que solo media 2 centimetros, mientras que H. Saramaticus hacia 8 centimetros mas o menos.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+Para adoptar un Hippocampus saramaticus necesitas una fama en el zoo de 1/2 estrella.
+   </color>
+<p/>Hippocampus es una especie de caballito de mar que se descubrio en 2005 en Slovenia, en los estratos de Yunjice, junto con Hippocampus Slovenicus. Este pez vivio hace 13 millones de años, en el Mioceno tardio. Entre los restos, un ejemplar hembra adulta esto completamente preservada, con placas oseas y otras caracteristicas macroscopicas importantes. Los restos fosiles son en su mayoria ejemplares juveniles y los restos de la cabeza y columna vertebral de los adultos. Los animales se cree que vivio entre los pastos marinos y macroalgas en las templadas aguas superficiales costeras de la parte occidental de los Paratethys centrales.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+Content from Wikipedia<p/>Imported from WLP2 MW by DinosaurMan
+  </cell>
+ </text>
+</zoopedia_hippocampuss>
+</ZT2Strings>

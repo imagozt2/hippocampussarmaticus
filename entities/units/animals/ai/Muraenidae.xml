@@ -1,0 +1,18 @@
+<BFTypedBinder binderType="Muraenidae" abstract="true">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Anguilliformes>
+                     <Muraenidae/>
+                  </Anguilliformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+</BFTypedBinder>

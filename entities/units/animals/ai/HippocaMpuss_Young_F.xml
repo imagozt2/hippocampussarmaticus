@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="HippocaMpuss_Young_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Anguilliformes>
+                     <Muraenidae>
+                        <HippocaMpuss>
+                           <HippocaMpuss_Young>
+                              <HippocaMpuss_Young_F/>
+                           </HippocaMpuss_Young>
+                        </HippocaMpuss>
+                     </Muraenidae>
+                  </Anguilliformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="HippocaMpuss_Young_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+</BFTypedBinder>

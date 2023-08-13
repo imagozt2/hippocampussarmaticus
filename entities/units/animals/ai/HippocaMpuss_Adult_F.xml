@@ -1,0 +1,34 @@
+<BFTypedBinder binderType="HippocaMpuss_Adult_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Actinopterygii>
+                  <Anguilliformes>
+                     <Muraenidae>
+                        <HippocaMpuss>
+                           <HippocaMpuss_Adult>
+                              <HippocaMpuss_Adult_F/>
+                           </HippocaMpuss_Adult>
+                        </HippocaMpuss>
+                     </Muraenidae>
+                  </Anguilliformes>
+               </Actinopterygii>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_Male="0" f_adoptCount="rand(1,1)"/>
+   </shared>
+   <binder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance b_Pregnant="false"/>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>
